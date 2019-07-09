@@ -15,6 +15,8 @@ public class User {
 	private String lastName;
 	private String email;
 	private Date dateOfBirth;
+	
+	
 	public int getUserId() {
 		return userId;
 	}
